@@ -2,4 +2,4 @@ Archivo de prueba de mi repositorio con git
 
 Modifico archivo para segundo commit
 
-hoy hablaremos de su vida
+hoy hablaremos de su vida y obra maestra
