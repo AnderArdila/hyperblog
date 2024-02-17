@@ -6,12 +6,31 @@ body{
     margin: 0;
     padding: 0;
 }
+
+#cabecera
+{
+    background: rgb(115, 115, 189);
+    box-shadow: 0px 2px 20px 0px rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+
+#cabecera #tagline
+{
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container
 {
     width: 70%;
     padding: 1cm;
     text-align: left;
-    border: 1px solid rgb(47, 0, 255);
+    border: 1px solid rgb(93, 92, 97);
     margin: 0 auto;
 }
 #container h1
