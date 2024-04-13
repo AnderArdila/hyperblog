@@ -3,3 +3,5 @@ Archivo de prueba de mi repositorio con git
 Modifico archivo para segundo commit
 
 hoy hablaremos de su vida y obra maestra
+
+Aca esta editando la historia la cuenta gerencia, miembro agregado al proyecto
