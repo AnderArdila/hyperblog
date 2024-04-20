@@ -1,8 +1,9 @@
 body{
+    background: gray;
     color: #333;
     text-align: center;
     font-family: Arial;
-    font-size: 12px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
 }
@@ -15,6 +16,12 @@ body{
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 30px;
+    vertical-align: middle;
 }
 
 
@@ -37,4 +44,10 @@ body{
 {
     text-align: center;
     font-size: 20px;
+}
+
+#post
+{
+    background: white;
+    padding: 1em;
 }
