@@ -7,3 +7,5 @@ hoy hablaremos de su vida y obra maestra
 Aca esta editando la historia la cuenta gerencia, miembro agregado al proyecto
 
 Modificacion realizada desde el equipo anderMac
+
+Nueva modificacion realizada desde wsl - windows subsystem for linux - vinculado a mi llave de la cuenta github de gerencia@branderidaes.com
