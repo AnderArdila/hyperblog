@@ -11,3 +11,5 @@ Modificacion realizada desde el equipo anderMac
 Nueva modificacion realizada desde wsl - windows subsystem for linux -  llave github de gerencia@branderidaes.com
 
 Envio un cambio, para probar mis llaves , desde WSL colaborador a repo de Ander
+
+Obtendo de nuevo el proyecto forkiado de brander y hago este cambio en la historia.txt
