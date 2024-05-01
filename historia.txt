@@ -12,4 +12,6 @@ Nueva modificacion realizada desde wsl - windows subsystem for linux -  llave gi
 
 Envio un cambio, para probar mis llaves , desde WSL colaborador a repo de Ander
 
+Master 1
+
 Obtendo de nuevo el proyecto forkiado de brander y hago este cambio en la historia.txt
